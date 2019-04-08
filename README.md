@@ -29,15 +29,27 @@ Q2: What is the answer?
 * _Jeremy_: Of course, the answer is [42](https://simple.wikipedia.org/wiki/42_(answer)).
 
 ## Interview
-Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
+Hello! In the rush that is the start of the term, I really haven't had a chance to chat with many of you. So would you do me the favor of helping me get to know a bit about you by answering the following? Please avoid one word answers... I want to learn about you!
 
-Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+Q1: So you're finishing up your time in this CSCC program. Why did you decide to embark on this journey?
 
-Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+* _Karen_: I currently hold a developer position but I work mainly with third party apps. I decided that I wanted to branch out and be more technical. I enjoy learning new things.
 
-Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+Q2: I love to travel. Tell me a bit about your favorite travel destination so far. What's on your travel bucket list?
 
-Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
+* _Karen_:  Currently, I like to go to Disney World. I would really love to one day go to Italy.
+
+Q3: Name your favorite member of The Beatles, and your favorite Beatles song. You do know at least one Beatles song, right? If you are a Beatles fan, feel free to give me your top 5 or so.
+
+* _Karen_:  I don't know that I have a favorite Beatle. I like Sgt. Pepper's Lonely Hearts Club Band.
+
+Q4: Do you have any pets? Species/Name/Details please. Murray wants to know... (he's not as smart as that picture makes him seem).
+
+* _Karen_:  I do have pets. Too many really. I have 3 dogs and a cat.
+1. Floyd (short for Pinkerton Floyd)- He is a jerk and also a mutt.
+1. Daisy - She is a mutt but is deaf and very sweet.
+1. Jenga - She is a rat terrier mix and is very selective who she likes.
+1. Pepsi - She is a black cat and very nice. 
 
 
 ## Submitting Your Work
